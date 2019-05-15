@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Katalog Film</string>
+        <string name="movie_title">Judul Film</string>
+        <string name="poster">Poster</string>
+        <string name="backdrop">Latar</string>
+        <string name="release_date">Tanggal Rilis</string>
+        <string name="genre">Genre</string>
+        <string name="voteAverage">Rating</string>
+        <string name="overview">Ikhtisar</string>
+        <string name="runtime">Durasi</string>
+        <string name="setting">Ubah Bahasa</string>
+        <string name="now_playing">Sedang Tayang</string>
+        <string name="upcoming">Akan Datang</string>
+        <string name="minutes">%1$s Menit</string>
+        <string name="retry">MUAT ULANG</string>
+        <string name="check_connection">Tolong periksa koneksi internet anda</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="poster">Poster</string>
+    <string name="backdrop">Backdrop</string>
+    <string name="release_date">Release Date</string>
+    <string name="genre">Genres</string>
+    <string name="voteAverage">Rating</string>
+    <string name="overview">Overview</string>
+    <string name="runtime">Runtime</string>
+    <string name="setting">Change Language</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="minutes">%1$s Minutes</string>
+    <string name="retry">RETRY</string>
+    <string name="check_connection">Please check your internet connection</string>
+</resources>
